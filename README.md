@@ -1,4 +1,4 @@
-# Estudos de JavaScript
+# JavaScript para Desenvolvimento Web (DOM e Interatividade)
 
 Este repositório foi criado para registrar meus estudos e práticas em **JavaScript**, com base em aulas e materiais do **Curso em Vídeo (Gustavo Guanabara)**, além de exercícios e desafios aplicados.
 
